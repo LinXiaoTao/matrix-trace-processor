@@ -2,6 +2,10 @@
 
 处理  [matrix-trace-canary](https://github.com/Tencent/matrix/tree/master/matrix/matrix-android/matrix-trace-canary) 中的堆栈信息。
 
+## Thanks
+
+[profilo](https://github.com/facebookincubator/profilo)
+
 ## Demo
 
 ![demo](https://raw.githubusercontent.com/LinXiaoTao/matrix-trace-processor/master/demo/1581129760409.png)
