@@ -4,7 +4,7 @@
 
 ## Demo
 
-![demo](https://raw.githubusercontent.com/LinXiaoTao/matrix-trace-processor/master/demo/1581129760409.svg)
+![demo](https://raw.githubusercontent.com/LinXiaoTao/matrix-trace-processor/master/demo/1581129760409.png)
 
 ## Usage
 
