@@ -16,12 +16,10 @@ limitations under the License.
 
 
 import collections
-import subprocess
-import os
 import datetime
+import os
+import subprocess
 import sys
-import gzip
-import zipfile
 from io import BytesIO
 
 
